@@ -20,11 +20,11 @@ function logfrm(){
         return false;
     }
     
-    console.log("No error upto here");
+    //console.log("No error upto here");
 
     var x = document.getElementById("frem").checked;
     
-    console.log(x)
+    //console.log(x)
 
     if(x == true)
     {
